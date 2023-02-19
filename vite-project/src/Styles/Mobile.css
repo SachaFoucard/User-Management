@@ -1,0 +1,36 @@
+.box {
+    background-color: aliceblue;
+    width: 600px;
+    padding-block: 40px;
+    border: 5px solid rgb(205, 205, 205);
+}
+.box img{
+    border-radius: 40px;
+    max-width: 100px;
+    margin: auto;
+}
+
+.box .grid {
+    background-color: gray;
+}
+
+.box .red {
+    background-color: red;
+}
+
+.box .bleu {
+    background-color: rgb(7, 105, 185);
+}
+
+.box button {
+    max-width: 80px;
+    max-height: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    font-size: 15px;
+    border: 1px black solid;
+    margin-right: 10px;
+}
+.box input{
+  height: 30px;
+}

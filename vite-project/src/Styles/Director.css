@@ -1,0 +1,29 @@
+table tr{
+display: grid;
+grid-template-columns: repeat(7,1fr);
+border: 1px solid black;
+}
+td{
+    width: 150px;
+}
+h2{
+    padding-bottom: 50px;
+    color:  rgb(223, 223, 223);
+}
+table{
+    border: 1px solid black;
+ color: rgb(223, 223, 223);
+}
+.dd{
+font-size: 12px;
+padding: 3px;
+}
+.red{
+    background-color: rgb(184, 49, 49);
+}
+.blue{
+    background-color: rgb(83, 83, 203);
+}
+img{
+    max-width: 50px;
+}

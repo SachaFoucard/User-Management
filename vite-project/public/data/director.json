@@ -1,0 +1,15 @@
+[
+    {
+        "userName": "admin2492",
+        "password1": "admin1234admin",
+        "picture": "https://sachafoucard.netlify.app/assets/logosacha-d8a74dbb.png",
+        "firstName": "admin",
+        "lastName": "admin",
+        "email": "admin",
+        "birthday": "24/01/1992",
+        "city": "Tel-Aviv",
+        "adress": "frishman",
+        "number": "12"
+    }
+
+]
